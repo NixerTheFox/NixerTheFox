@@ -1899,7 +1899,7 @@ a {
   position: relative;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: #b56ece !important;
+  background: rgba(181, 110, 206, 0.6) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -1941,7 +1941,7 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #b56ece;
-  background: #b56ece !important;
+  background: rgba(181, 110, 206, 0.6) !important;
 }
 .cid-tHeG7yune1 .nav-item:focus,
 .cid-tHeG7yune1 .nav-link:focus {
@@ -2135,7 +2135,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #2e481a;
+  background-color: #ffffff;
 }
 .cid-tHeG7yune1 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2263,8 +2263,8 @@ a {
     border-radius: 1.5rem;
     background: #b56ece;
     opacity: 1;
-    border-color: #b56ece !important;
-    background: #b56ece !important;
+    border-color: rgba(181, 110, 206, 0.6) !important;
+    background: rgba(181, 110, 206, 0.6) !important;
     backdrop-filter: blur(8px);
   }
   .cid-tHeG7yune1 .navbar-nav .nav-item .nav-link::after {
