@@ -1860,34 +1860,10 @@ a {
 .cid-uiT0nMsNui img {
   filter: grayscale(1);
 }
-.cid-uiT0nMs8dt {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: transparent;
-}
-.cid-uiT0nMs8dt .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
-}
-.cid-uiT0nMs8dt form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
-}
-.cid-uiT0nMs8dt form .mbr-section-btn .btn {
-  display: inline-flex;
-}
-@media (max-width: 991px) {
-  .cid-uiT0nMs8dt form .mbr-section-btn .btn {
-    width: 100%;
-  }
-}
-.cid-uiT0nMs8dt .content-head {
-  max-width: 800px;
-}
 .cid-uiT0nMs0pn {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: transparent;
+  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-uiT0nMs0pn .mbr-fallback-image.disabled {
   display: none;
