@@ -1505,7 +1505,7 @@ a {
 }
 .cid-uiT0nMrNIU img,
 .cid-uiT0nMrNIU .image-wrapper {
-  height: 600px;
+  height: 400px;
   object-fit: cover;
 }
 @media (max-width: 767px) {
